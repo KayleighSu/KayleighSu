@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello everybody!
+My name is Kayleigh, and I'm a beginner programmer! 
+Fun fact: I have a dog and two cats :>
